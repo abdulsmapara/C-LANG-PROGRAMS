@@ -1,6 +1,9 @@
 #include "ArrayList.h"
 /*
-!!!!!!!!ArrayList.h available in Header Files and Definitions folder outside this folder!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ArrayList.h (header) and ArrayList.c(function definitions of all functions declared in ArrayList.h) 
+available in HEADER FILES AND FUNCTION DEFINITIONS folder outside this folder
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 THIS IS SAMPLE DEMO OF IMPLEMENTATION OF ARRAY LIST IN C LANGUAGE
 */
 int main()
